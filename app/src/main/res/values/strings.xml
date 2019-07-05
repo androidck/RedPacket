@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">红包助手</string>
+    <string name="service_name">红包助手</string>
+    <string name="accessibility_description">红包助手</string>
+</resources>
